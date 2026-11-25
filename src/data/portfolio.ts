@@ -2,8 +2,8 @@ export const portfolio = {
   name: 'Nisa Athira',
   initials: 'NA',
   title: 'Data Analyst | Data Presenter | Statistics Graduate',
-  email: 'nisa.athira@example.com',
-  linkedin: '#',
+  email: 'nisaathira28@gmail.com',
+  linkedin: 'https://www.linkedin.com/in/nisa-athira/',
   github: '#',
   cv: '#',
 }
